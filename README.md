@@ -21,6 +21,7 @@ There are four types of Objectives, each with different Health and behavior.
   <summary>Objectives</summary>
  
 **Crystal Heart**
+![Crystal Heart gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Crystal%20Heart.gif)
 - X Health
 - Immune to X
 - Resistant to X
@@ -28,6 +29,7 @@ There are four types of Objectives, each with different Health and behavior.
 - Drops
 
 **Blazing Cannon**
+![Blazing Cannon gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Blaze%20Cannon%20Idle.gif)
 - X Health
 - Immune to X
 - Resistant to X
@@ -35,6 +37,7 @@ There are four types of Objectives, each with different Health and behavior.
 - Drops
 
 **Cursed Chest**
+![Cursed Chest gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Cursed%20Chest%20Idle.gif)
 - X Health
 - Immune to X
 - Resistant to X
@@ -42,6 +45,7 @@ There are four types of Objectives, each with different Health and behavior.
 - Drops
 
 **Vile Root**
+![Vile Root gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Vile%20Root%20Idle.gif)
 - X Health
 - Immune to X
 - Resistant to X
@@ -51,6 +55,8 @@ There are four types of Objectives, each with different Health and behavior.
 </details>
 
 ## The Fortress Matrix
+![Fortress Matrix gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20Matrix%20Idle%20Air.gif)
+
 The Fortress Matrix appears to be a man-made creature, like a golem. It has a central glowing core--the boss itself--and is surrounded by glowing bricks that it manipulates around itself for attack and defense.
 
 When spawned, it will wait idle in the Central Keep. Once a player approaches it, it will come to life and begin to attack. If ever there are no players nearby, it will reset, fully restoring its health--it must be defeated in one attempt.
