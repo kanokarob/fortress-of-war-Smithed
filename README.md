@@ -1,4 +1,4 @@
-![FORTRESS OF WAR Logo](https://cdn.modrinth.com/data/ayr9Z7rk/images/7ffe1e156b962bbae0d2e93da427b5280e99603b.png)
+![FORTRESS OF WAR Logo](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20of%20War%201.png)
 
 # Armed for War
 The Fortress of War data pack replaces the vanilla Nether Fortress with a completely redefined structure, featuring multiple stages of intense combat as players destroy objectives to progress deeper into the Fortress, acquiring improved and custom loot on the way to an epic boss fight.
