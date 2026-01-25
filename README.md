@@ -55,8 +55,6 @@ There are four types of Objectives, each with different Health and behavior.
 </details>
 
 ## The Fortress Matrix
-![Fortress Matrix gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20Matrix%20Idle%20Air.gif)
-
 The Fortress Matrix appears to be a man-made creature, like a golem. It has a central glowing core--the boss itself--and is surrounded by glowing bricks that it manipulates around itself for attack and defense.
 
 When spawned, it will wait idle in the Central Keep. Once a player approaches it, it will come to life and begin to attack. If ever there are no players nearby, it will reset, fully restoring its health--it must be defeated in one attempt.
@@ -64,15 +62,16 @@ When spawned, it will wait idle in the Central Keep. Once a player approaches it
 <details>
   <summary>Fortress Matrix Behavior</summary>
  
+![Fortress Matrix gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20Matrix%20Preview.gif)
 - 425 Health
 - Immunity to Magic and Explosion damage
 - Resistant to projectiles
 - Very Resistant to melee damage
 - Periodically tries to damage nearby players with a passive attack
 - While above half health, randomly selects between these attacks:
-  - 
+  - 1
 - While below half health, randomly selects between these attacks:
-  - 
+  - 2
  
 </details>
 
