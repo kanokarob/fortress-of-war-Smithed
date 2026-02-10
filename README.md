@@ -1,10 +1,10 @@
-![FORTRESS OF WAR Logo](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20of%20War%201.png)
+![FORTRESS OF WAR Logo](https://cdn.modrinth.com/data/gohytQhh/images/a7e330c13c1c36bbb092c8659a4cc7e83a4c349a.png)
 
 # Armed for War
 The Fortress of War data pack replaces the vanilla Nether Fortress with a completely redefined structure, featuring multiple stages of intense combat as players destroy objectives to progress deeper into the Fortress, acquiring improved and custom loot on the way to an epic boss fight.
 
 ## The Fortress
-The updated Nether Fortress replaces the original, and as such appears in the same biomes and rarities. It consists of an outer permiter of open-air bridges, which connect to a maze-like interior of guarded hallways, surrounding a central keep. Although large animated Fortress Gates bar the way from the Bridges to the Interior to the Keep, players can break walls and travel between these areas if desired, though critical Objectives will not spawn until appropriately progressed.
+The updated Nether Fortress replaces the original, and as such appears in the same biomes and rarities. It consists of an outer perimeter of open-air bridges, which connect to a maze-like interior of guarded hallways, surrounding a central keep. Although large animated Fortress Gates bar the way from the Bridges to the Interior to the Keep, players can break walls and travel between these areas if desired, though critical Objectives will not spawn until appropriately progressed.
 
 When a player approaches a Nether Fortress for the first time, a bossbar will appear representing the entire Fortress, and Objectives will be spawned throughout the Bridges. Although the Bridges are long and winding, you may need to break through terrain or other parts of the Fortress to reach all of the Objectives.
 
@@ -21,57 +21,63 @@ There are four types of Objectives, each with different Health and behavior.
   <summary>Objectives</summary>
  
 **Crystal Heart**
-![Crystal Heart gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Crystal%20Heart.gif)
-- X Health
-- Immune to X
-- Resistant to X
-- Attack
-- Drops
+![Crystal Heart gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Crystal%20Heart.gif?raw=true)
+- 80 Health
+- Immune to fire, explosions, projectiles, and suffocation
+- Resistant to magic
+- Periodically releases a shockwave of magic damage
+- Drops Glowstone Dust, Basalt, Obsidian, Redstone Blocks, and Rib Armor Trim Smithing Templates
 
 **Blazing Cannon**
-![Blazing Cannon gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Blaze%20Cannon%20Idle.gif)
-- X Health
-- Immune to X
-- Resistant to X
-- Attack
-- Drops
+![Blazing Cannon gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Blaze%20Cannon%20Idle.gif?raw=true)
+- 50 Health
+- Immune to fire, explosions, and suffocation
+- Resistant to projectiles and magic
+- Periodically shoots Fireballs at players in Line of Sight from up to 64 blocks away. They can be blocked, but not redirected
+- Drops Fire Charges, Nether Bricks, Arrows, Blaze Rods, and Rib Armor Trim Smithing Templates
 
 **Cursed Chest**
-![Cursed Chest gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Cursed%20Chest%20Idle.gif)
-- X Health
-- Immune to X
-- Resistant to X
-- Attack
-- Drops
+![Cursed Chest gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Cursed%20Chest%20Idle.gif?raw=true)
+- 65 Health
+- Immune to fire, explosions, projectiles, and suffocation
+- Resistant to magic
+- Hops around, snapping its lid like a mimic, dealing melee damage to enemies in range
+- Drops Soul Sand, Iron Ingots, Gold Ingots, Diamonds, and Rib Armor Trim Smithing Templates
 
 **Vile Root**
-![Vile Root gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Vile%20Root%20Idle.gif)
-- X Health
-- Immune to X
-- Resistant to X
-- Attack
-- Drops
+![Vile Root gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Vile%20Root%20Idle.gif?raw=true)
+- 40 Health
+- Immune to fire, explosions, and suffocation
+- Resistant to projectiles and magic
+- Periodically attempts to bite the nesrest player with a melee attack
+- Drops Nether Wart Blocks, Weeping Vines, Nether Warts, Fire Charges, Rib Armor Trim Smithing Templates, and **Mature Warts**
  
 </details>
 
 ## The Fortress Matrix
 The Fortress Matrix appears to be a man-made creature, like a golem. It has a central glowing core--the boss itself--and is surrounded by glowing bricks that it manipulates around itself for attack and defense.
 
-When spawned, it will wait idle in the Central Keep. Once a player approaches it, it will come to life and begin to attack. If ever there are no players nearby, it will reset, fully restoring its health--it must be defeated in one attempt.
+When spawned, it will idle in the Central Keep. Once a player approaches it, it will come to life and begin to attack. If ever there are no players nearby, it will reset, fully restoring its health--it must be defeated in one attempt.
 
 <details>
   <summary>Fortress Matrix Behavior</summary>
  
-![Fortress Matrix gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20Matrix%20Preview.gif)
+![Fortress Matrix gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20Matrix%20Preview.gif?raw=true)
 - 425 Health
-- Immunity to Magic and Explosion damage
+- Immune to fire, explosions, and magic
 - Resistant to projectiles
 - Very Resistant to melee damage
 - Periodically tries to damage nearby players with a passive attack
+- Periodically summons Minions, which can be two Blazes, two Wither Skeletons, or a powerful Wither Skeleton. As long as these Minions are alive, the Fortress Matrix is invulnerable, indicated by particles
 - While above half health, randomly selects between these attacks:
-  - 1
+  - **Spike Arm:** Settles down onto the ground, then shoots out a huge spiky arm that damages hit enemies
+  - **Brick Bash:** Raises four of its bricks high in the air, then smashes them down in front of it, dealing damage to hit enemies
+  - **Blazing Sword:** Raises a fiery sword high above itself, then swings it down in a straight line in front of it, dealing damage to hit enemies and setting fire on the ground
+  - **Whirlwind Blitz:** Starts to spin its bricks around itself faster and faster, dealing damage in an expanding radius around itself
 - While below half health, randomly selects between these attacks:
-  - 2
+  - **Blazing Sword:** Raises a fiery sword high above itself, then swings it in a wide arc in front of it, dealing damage to hit enemies and setting fire on the ground
+  - **Fist of Fury:** Raises a huge metal fist high above itself, then slams it down, dealing damage to hit enemies
+  - **Corrupted Beacon:** Projects four purple laser beams in a cross from its core, spinning them around the room and dealing magic damage to hit enemies
  
 </details>
 
@@ -101,7 +107,7 @@ When the Fortress Matrix is killed, it drops an assortment of valuable loot, lot
 - Enchanted with **Core Strength**
   - Enchantment for Maces, Pickaxes, and Axes
   - When you hit a block below you while falling, creates an explosion relative to the distance you've fallen that launches you back up and deals damage to nearby mobs. This also expends some durability
-- Only drops from regular Fortress Matrixes
+- Only drops from Ominous Fortress Matrixes
 - If the player selected when the Fortress Matrix dies already has this item, it instead drops an Enchanted Book of Core Strength
  
 </details>
@@ -202,7 +208,15 @@ If the first player that enters a Nether Fortress has Bad Omen, or if a player g
 - The boss (if spawned) and all Objectives are despawned
 - Bridge Objectives are respawned, including more "random" Objectives
 - The bossbar is reset
+
 **Until the Fortress Matrix is killed:**
-- 
+- All Wither Skeletons in the Fortress become fully equipped with Wartorn equipment, or Dominion equipment with a 10% chance
+- Blazes and Magma Cubes emit Soul Fire Flame particles, and are immune to magic and explosions, and resistant to projectiles
+- All Objectives and the Fortress Matrix gain 75% more health
+- The Fortress Matrix drops more loot and XP
  
 </details>
+
+
+### Powered by Animated Java
+[![Animated Java Logo](https://raw.githubusercontent.com/Animated-Java/animated-java/refs/heads/main/src/assets/icons/animated_java_fancy_icon_centered.png?format=webp&quality=lossless&width=804&height=804)](https://animated-java.dev/)
