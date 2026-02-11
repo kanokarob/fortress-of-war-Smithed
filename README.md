@@ -3,6 +3,8 @@
 # Armed for War
 The Fortress of War data pack replaces the vanilla Nether Fortress with a completely redefined structure, featuring multiple stages of intense combat as players destroy objectives to progress deeper into the Fortress, acquiring improved and custom loot on the way to an epic boss fight.
 
+[![Fortress of War Trailer](https://img.youtube.com/vi/hJcu3kB5CEQ/0.jpg)](https://www.youtube.com/watch?v=hJcu3kB5CEQ)
+
 ## The Fortress
 The updated Nether Fortress replaces the original, and as such appears in the same biomes and rarities. It consists of an outer perimeter of open-air bridges, which connect to a maze-like interior of guarded hallways, surrounding a central keep. Although large animated Fortress Gates bar the way from the Bridges to the Interior to the Keep, players can break walls and travel between these areas if desired, though critical Objectives will not spawn until appropriately progressed.
 
