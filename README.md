@@ -161,7 +161,7 @@ As you explore the Fortress of War, you're likely to encounter custom items in l
 - Found in Chests, and dropped by Wither Skeletons that are wearing it or the Fortess Matrix
 - Can be repaired in an Anvil with End Crystals
 
-**Wartorn Sword**
+**Dominion Sword**
 - Custom purple-colored Sword
 - 9 Attack Damage
 - 1.1 Attack Speed
