@@ -14,6 +14,8 @@ Once all Objectives on the Bridges have been destroyed, you'll be able to open t
 
 While a Nether Fortess is active, Wither Skeletons that are spawned in it will have a chance to drop Wicked Apples, and have a chance to spawn equipped with full Wartorn gear.
 
+![Fortress Gate gif](https://i.imgur.com/u9UZK7R.gif)
+
 ## Fortress Objectives
 These are unique animated entities that represent the integrity of the Fortress. They are stationary, and can be attacked and dealt damage like mobs, reducing the Fortress' bossbar. When destroyed, they drop appropriate loot.
 
@@ -23,7 +25,7 @@ There are four types of Objectives, each with different Health and behavior.
   <summary>Objectives</summary>
  
 **Crystal Heart**
-![Crystal Heart gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Crystal%20Heart.gif?raw=true)
+![Crystal Heart gif](https://i.imgur.com/g9JsLJ4.gif)
 - 80 Health
 - Immune to fire, explosions, projectiles, and suffocation
 - Resistant to magic
@@ -31,7 +33,7 @@ There are four types of Objectives, each with different Health and behavior.
 - Drops Glowstone Dust, Basalt, Obsidian, Redstone Blocks, and Rib Armor Trim Smithing Templates
 
 **Blazing Cannon**
-![Blazing Cannon gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Blaze%20Cannon%20Idle.gif?raw=true)
+![Blazing Cannon gif](https://i.imgur.com/kqMlQc8.gif)
 - 50 Health
 - Immune to fire, explosions, and suffocation
 - Resistant to projectiles and magic
@@ -39,7 +41,7 @@ There are four types of Objectives, each with different Health and behavior.
 - Drops Fire Charges, Nether Bricks, Arrows, Blaze Rods, and Rib Armor Trim Smithing Templates
 
 **Cursed Chest**
-![Cursed Chest gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Cursed%20Chest%20Idle.gif?raw=true)
+![Cursed Chest gif](https://i.imgur.com/oZttlW3.gif)
 - 65 Health
 - Immune to fire, explosions, projectiles, and suffocation
 - Resistant to magic
@@ -47,7 +49,7 @@ There are four types of Objectives, each with different Health and behavior.
 - Drops Soul Sand, Iron Ingots, Gold Ingots, Diamonds, and Rib Armor Trim Smithing Templates
 
 **Vile Root**
-![Vile Root gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Vile%20Root%20Idle.gif?raw=true)
+![Vile Root gif](https://i.imgur.com/dEKU3KJ.gif)
 - 40 Health
 - Immune to fire, explosions, and suffocation
 - Resistant to projectiles and magic
@@ -64,7 +66,7 @@ When spawned, it will idle in the Central Keep. Once a player approaches it, it 
 <details>
   <summary>Fortress Matrix Behavior</summary>
  
-![Fortress Matrix gif](https://github.com/kanokarob/fortress-of-war-Smithed/blob/main/Fortress%20Matrix%20Preview.gif?raw=true)
+![Fortress Matrix gif](https://i.imgur.com/kyFkWUf.gif)
 - 425 Health
 - Immune to fire, explosions, and magic
 - Resistant to projectiles
