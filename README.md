@@ -67,10 +67,10 @@ When spawned, it will idle in the Central Keep. Once a player approaches it, it 
   <summary>Fortress Matrix Behavior</summary>
  
 ![Fortress Matrix gif](https://i.imgur.com/kyFkWUf.gif)
-- 425 Health
+- 300 Health
 - Immune to fire, explosions, and magic
 - Resistant to projectiles
-- Very Resistant to melee damage
+- Very Resistant to melee damage, but less-so from Fortress of War weapons
 - Periodically tries to damage nearby players with a passive attack
 - Periodically summons Minions, which can be two Blazes, two Wither Skeletons, or a powerful Wither Skeleton. As long as these Minions are alive, the Fortress Matrix is invulnerable, indicated by particles
 - While above half health, randomly selects between these attacks:
@@ -217,6 +217,7 @@ If the first player that enters a Nether Fortress has Bad Omen, or if a player g
 - All Wither Skeletons in the Fortress become fully equipped with Wartorn equipment, or Dominion equipment with a 10% chance
 - Blazes and Magma Cubes emit Soul Fire Flame particles, and are immune to magic and explosions, and resistant to projectiles
 - All Objectives and the Fortress Matrix gain 75% more health
+- Objectives will periodically spawn reinforcements
 - The Fortress Matrix drops more loot and XP
  
 </details>
